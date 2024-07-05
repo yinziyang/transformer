@@ -7,8 +7,8 @@ import (
 	"github.com/sugarme/gotch/nn"
 	"github.com/sugarme/gotch/ts"
 
-	"github.com/sugarme/transformer/bert"
-	"github.com/sugarme/transformer/util"
+	"github.com/yinziyang/transformer/bert"
+	"github.com/yinziyang/transformer/util"
 )
 
 // RobertaEmbeddings holds embedding struct for Roberta model.

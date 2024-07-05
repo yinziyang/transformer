@@ -9,8 +9,8 @@ import (
 	"github.com/sugarme/gotch/pickle"
 	"github.com/sugarme/gotch/ts"
 
-	"github.com/sugarme/transformer/pretrained"
-	"github.com/sugarme/transformer/util"
+	"github.com/yinziyang/transformer/pretrained"
+	"github.com/yinziyang/transformer/util"
 )
 
 // BertModel defines base architecture for BERT models.

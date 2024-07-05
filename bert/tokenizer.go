@@ -9,8 +9,8 @@ import (
 	"github.com/sugarme/tokenizer/pretokenizer"
 	"github.com/sugarme/tokenizer/processor"
 
-	// "github.com/sugarme/transformer/pretrained"
-	"github.com/sugarme/transformer/util"
+	// "github.com/yinziyang/transformer/pretrained"
+	"github.com/yinziyang/transformer/util"
 )
 
 type BertTokenizerFast = tokenizer.Tokenizer

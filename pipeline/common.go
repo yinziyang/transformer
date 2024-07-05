@@ -9,7 +9,7 @@ import (
 	"github.com/sugarme/tokenizer/normalizer"
 	"github.com/sugarme/tokenizer/pretokenizer"
 	"github.com/sugarme/tokenizer/processor"
-	"github.com/sugarme/transformer/bert"
+	"github.com/yinziyang/transformer/bert"
 )
 
 // Common blocks for generic pipelines (e.g. token classification or sequence classification)

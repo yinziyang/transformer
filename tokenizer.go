@@ -1,7 +1,7 @@
 package transformer
 
 import (
-	"github.com/sugarme/transformer/pretrained"
+	"github.com/yinziyang/transformer/pretrained"
 )
 
 // LoadTokenizer loads pretrained tokenizer from local or remote file.

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/sugarme/transformer/bert"
+	"github.com/yinziyang/transformer/bert"
 )
 
 // No custom params

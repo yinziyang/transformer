@@ -10,8 +10,8 @@ import (
 	"github.com/sugarme/gotch/ts"
 	"github.com/sugarme/tokenizer"
 
-	"github.com/sugarme/transformer/bert"
-	"github.com/sugarme/transformer/util"
+	"github.com/yinziyang/transformer/bert"
+	"github.com/yinziyang/transformer/util"
 )
 
 func ExampleBertForMaskedLM() {

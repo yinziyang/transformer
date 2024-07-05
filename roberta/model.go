@@ -10,9 +10,9 @@ import (
 	"github.com/sugarme/gotch/pickle"
 	"github.com/sugarme/gotch/ts"
 
-	"github.com/sugarme/transformer/bert"
-	"github.com/sugarme/transformer/pretrained"
-	"github.com/sugarme/transformer/util"
+	"github.com/yinziyang/transformer/bert"
+	"github.com/yinziyang/transformer/pretrained"
+	"github.com/yinziyang/transformer/util"
 )
 
 // RobertaLMHead holds data of Roberta LM head.

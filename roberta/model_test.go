@@ -15,9 +15,9 @@ import (
 	"github.com/sugarme/tokenizer/normalizer"
 	"github.com/sugarme/tokenizer/pretokenizer"
 	"github.com/sugarme/tokenizer/processor"
-	"github.com/sugarme/transformer/bert"
-	"github.com/sugarme/transformer/roberta"
-	"github.com/sugarme/transformer/util"
+	"github.com/yinziyang/transformer/bert"
+	"github.com/yinziyang/transformer/roberta"
+	"github.com/yinziyang/transformer/util"
 )
 
 func getRobertaTokenizer(vocabFile string, mergeFile string) (retVal *tokenizer.Tokenizer) {
